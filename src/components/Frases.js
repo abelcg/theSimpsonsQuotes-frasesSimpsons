@@ -4,13 +4,13 @@ import Card  from "react-bootstrap/card";
 
 const Frases = (props) => {
   return (
-    <Card>
+    <Card className="w-100">
       <Card.Body>
-        <div className="row">
+        <div className="row g-5">
           <div className="col-12 col-md-4">
-              <img src={props.personaje.image} alt={props.personaje.character} className="image-fluid"/>
+              <img src={props.personaje.image} alt={props.personaje.character} className="img-fluid"/>
           </div>
-          <div className="col-12 col-md-8">
+          <div className="col-12 col-md-8 d-flex flex-column justify-content-center align-items-start">
             <Card.Title>{props.personaje.character}</Card.Title>
             <Card.Text>
             {props.personaje.quote}
