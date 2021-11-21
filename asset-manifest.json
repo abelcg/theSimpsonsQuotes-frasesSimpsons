@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/theSimpsonsQuotes-frasesSimpsons/static/css/main.4988ba7a.chunk.css",
+    "main.js": "/theSimpsonsQuotes-frasesSimpsons/static/js/main.50fc25c6.chunk.js",
+    "main.js.map": "/theSimpsonsQuotes-frasesSimpsons/static/js/main.50fc25c6.chunk.js.map",
+    "runtime-main.js": "/theSimpsonsQuotes-frasesSimpsons/static/js/runtime-main.d28577be.js",
+    "runtime-main.js.map": "/theSimpsonsQuotes-frasesSimpsons/static/js/runtime-main.d28577be.js.map",
+    "static/css/2.383c0125.chunk.css": "/theSimpsonsQuotes-frasesSimpsons/static/css/2.383c0125.chunk.css",
+    "static/js/2.8d18c3c6.chunk.js": "/theSimpsonsQuotes-frasesSimpsons/static/js/2.8d18c3c6.chunk.js",
+    "static/js/2.8d18c3c6.chunk.js.map": "/theSimpsonsQuotes-frasesSimpsons/static/js/2.8d18c3c6.chunk.js.map",
+    "static/js/3.a317941e.chunk.js": "/theSimpsonsQuotes-frasesSimpsons/static/js/3.a317941e.chunk.js",
+    "static/js/3.a317941e.chunk.js.map": "/theSimpsonsQuotes-frasesSimpsons/static/js/3.a317941e.chunk.js.map",
+    "index.html": "/theSimpsonsQuotes-frasesSimpsons/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/theSimpsonsQuotes-frasesSimpsons/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.4988ba7a.chunk.css.map": "/theSimpsonsQuotes-frasesSimpsons/static/css/main.4988ba7a.chunk.css.map",
+    "static/js/2.8d18c3c6.chunk.js.LICENSE.txt": "/theSimpsonsQuotes-frasesSimpsons/static/js/2.8d18c3c6.chunk.js.LICENSE.txt",
+    "static/media/logo.fd4b04d6.png": "/theSimpsonsQuotes-frasesSimpsons/static/media/logo.fd4b04d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28577be.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.8d18c3c6.chunk.js",
+    "static/css/main.4988ba7a.chunk.css",
+    "static/js/main.50fc25c6.chunk.js"
+  ]
+}
